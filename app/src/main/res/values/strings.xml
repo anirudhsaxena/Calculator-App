@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CalC</string>
+    <string name="buttonAdd">+</string>
+    <integer name="button1">1</integer>
+    <integer name="button2">2</integer>
+    <integer name="button3">3</integer>
+    <integer name="button4">4</integer>
+    <integer name="button5">5</integer>
+    <integer name="button6">6</integer>
+    <integer name="button7">7</integer>
+    <integer name="button8">8</integer>
+    <integer name="button9">9</integer>
+    <integer name="button0">0</integer>
+    <string name="buttonSub">-</string>
+    <string name="buttonMul">*</string>
+    <string name="buttonDiv">/</string>
+    <string name="buttonEqual">=</string>
+    <string name="buttonClear">Clear</string>
+    <string name="buttonDecimal">.</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="button0">0</string>
+</resources>
